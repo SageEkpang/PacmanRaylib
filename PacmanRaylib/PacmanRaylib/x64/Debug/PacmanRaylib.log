@@ -1,0 +1,90 @@
+﻿  Grid.cpp
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.h(86,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Grid.cpp')
+  
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.h(89,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Grid.cpp')
+  
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.h(96,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Grid.cpp')
+  
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.h(102,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Grid.cpp')
+  
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.h(108,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Grid.cpp')
+  
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.h(114,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'Grid.cpp')
+  
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(188,127): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(231,65): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(232,70): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(363,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(364,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(379,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(380,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(388,61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(389,61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(425,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(426,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(442,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(443,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(451,61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(452,61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(487,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(488,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(504,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(505,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(513,61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(514,61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(546,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(547,52): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(562,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(563,56): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(571,61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(572,61): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(749,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(753,38): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(783,29): warning C4244: 'argument': conversion from 'float' to 'std::array<std::array<char,23>,23>::size_type', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(783,32): warning C4244: 'argument': conversion from 'float' to 'std::array<char,23>::size_type', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(788,29): warning C4244: 'argument': conversion from 'float' to 'std::array<std::array<char,23>,23>::size_type', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(788,32): warning C4244: 'argument': conversion from 'float' to 'std::array<char,23>::size_type', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(793,29): warning C4244: 'argument': conversion from 'float' to 'std::array<std::array<char,23>,23>::size_type', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(793,32): warning C4244: 'argument': conversion from 'float' to 'std::array<char,23>::size_type', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(799,29): warning C4244: 'argument': conversion from 'float' to 'std::array<std::array<char,23>,23>::size_type', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(799,32): warning C4244: 'argument': conversion from 'float' to 'std::array<char,23>::size_type', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(806,29): warning C4244: 'argument': conversion from 'float' to 'std::array<std::array<char,23>,23>::size_type', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(806,32): warning C4244: 'argument': conversion from 'float' to 'std::array<char,23>::size_type', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(813,29): warning C4244: 'argument': conversion from 'float' to 'std::array<std::array<char,23>,23>::size_type', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(813,32): warning C4244: 'argument': conversion from 'float' to 'std::array<char,23>::size_type', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(820,29): warning C4244: 'argument': conversion from 'float' to 'std::array<std::array<char,23>,23>::size_type', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(820,32): warning C4244: 'argument': conversion from 'float' to 'std::array<char,23>::size_type', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(827,29): warning C4244: 'argument': conversion from 'float' to 'std::array<std::array<char,23>,23>::size_type', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(827,32): warning C4244: 'argument': conversion from 'float' to 'std::array<char,23>::size_type', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(833,29): warning C4244: 'argument': conversion from 'float' to 'std::array<std::array<char,23>,23>::size_type', possible loss of data
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.cpp(833,32): warning C4244: 'argument': conversion from 'float' to 'std::array<char,23>::size_type', possible loss of data
+  main.cpp
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.h(86,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.h(89,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.h(96,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.h(102,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.h(108,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+D:\GitHubRepoNew\PacmanRaylib\PacmanRaylib\Grid.h(114,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  PacmanRaylib.vcxproj -> D:\GitHubRepoNew\PacmanRaylib\x64\Debug\PacmanRaylib.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
